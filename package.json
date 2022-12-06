@@ -1,0 +1,28 @@
+{
+  "name": "myfirstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moyusuf97/myfirstAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moyusuf97/myfirstAPI/issues"
+  },
+  "homepage": "https://github.com/Moyusuf97/myfirstAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
